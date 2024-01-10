@@ -42,7 +42,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/CodecoolGlobal/el-proyecte-grande-design-general-MilanEgri.git
+git clone git@github.com:MilanEgri/php-online-marketplace.git
 
 ```
 
@@ -58,7 +58,7 @@ npm i
 # Run application
 npm run dev
 
-# Visit localhost:5173
+# Visit localhost:3000
 
 ```
 
